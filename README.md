@@ -67,7 +67,8 @@ Developed by: RegisterNumber:*/
 
 **Output/TIMING Waveform**
 
-![image](https://github.com/user-attachments/assets/a9e504cc-2a01-4b5f-bfd8-f9ef1041b50e)
+![image](https://github.com/user-attachments/assets/3bf3e0dd-a0eb-4e3c-a932-032ee8f9e45a)
+
 
 **Result:**
 Thus, we designed a half adder and half subtractor circuit and verified its truth

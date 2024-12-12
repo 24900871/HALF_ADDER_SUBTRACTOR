@@ -1,3 +1,6 @@
+NAME:JOTHIMANI P
+REG NO:24900871
+
 # HALF_ADDER_SUBTRACTOR
 
 Implementation-of-Half-Adder-and-Half Subtractor-circuit
@@ -34,6 +37,7 @@ Borrow = A’B
 Figure -02 HALF Subtractor
 
 **Truthtable**
+![image](https://github.com/user-attachments/assets/a80c534d-f22c-4cbf-b672-ada9d3ea2178)
 
 **Procedure**
 
@@ -47,6 +51,8 @@ Figure -02 HALF Subtractor
 
 5.	For different input combinations generate the timing diagram.
 
+![image](https://github.com/user-attachments/assets/cb76ad56-7f3c-408b-8393-80beda8baef8)
+
 
 **Program:**
 
@@ -55,7 +61,11 @@ Figure -02 HALF Subtractor
 Developed by: RegisterNumber:*/
 
 **RTL Schematic**
+![image](https://github.com/user-attachments/assets/382d7ae4-5de6-4732-bf6b-cd414d0cfdae)
 
 **Output/TIMING Waveform**
+![image](https://github.com/user-attachments/assets/a9e504cc-2a01-4b5f-bfd8-f9ef1041b50e)
 
 **Result:**
+Thus, we designed a half adder and half subtractor circuit and verified its truth
+table in Quartus using Verilog programming

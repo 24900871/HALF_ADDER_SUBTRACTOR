@@ -66,7 +66,8 @@ Developed by: RegisterNumber:*/
 
 **Output/TIMING Waveform**
 
-![image](https://github.com/user-attachments/assets/3bf3e0dd-a0eb-4e3c-a932-032ee8f9e45a)
+![image](https://github.com/user-attachments/assets/660289a0-1f4b-4c80-9202-d74dc60d5234)
+
 
 
 **Result:**

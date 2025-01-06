@@ -3,8 +3,6 @@ REG NO:24900871
 
 # EX:3 IMPLEMENTATION OF HALF ADDER SUBTRACTOR
 
-Implementation of Half 
- Adder and Half Subtractor circuit
 
 **AIM:**
 

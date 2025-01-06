@@ -1,10 +1,10 @@
 NAME:JOTHIMANI P
 REG NO:24900871
 
-# EX:3 HALF_ADDER_SUBTRACTOR
+# EX:3 HALF ADDER SUBTRACTOR
 
-Implementation of Half-
- Adder and Half Subtractor-circuit
+Implementation of Half 
+ Adder and Half Subtractor circuit
 
 **AIM:**
 
